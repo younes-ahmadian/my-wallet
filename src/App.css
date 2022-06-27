@@ -4,7 +4,8 @@ body {
 }
 
 .App {
-  background-image: url('https://images.unsplash.com/photo-1589822826330-ac4ab15f7225?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80');
+  background-image: url('./picture/Wallet.jpg');
+  background-size: cover;
   background-color: aqua;
   display: flex;
   justify-content: center;
