@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/%3Cmy-wallet%3E/static/css/main.19e811d4.css",
-    "main.js": "/%3Cmy-wallet%3E/static/js/main.1d0797ba.js",
-    "static/media/Wallet.jpg": "/%3Cmy-wallet%3E/static/media/Wallet.b7c61e43c4c2db3f5873.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/%3Cmy-wallet%3E/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/%3Cmy-wallet%3E/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/%3Cmy-wallet%3E/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/%3Cmy-wallet%3E/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/%3Cmy-wallet%3E/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/%3Cmy-wallet%3E/index.html",
-    "main.19e811d4.css.map": "/%3Cmy-wallet%3E/static/css/main.19e811d4.css.map",
-    "main.1d0797ba.js.map": "/%3Cmy-wallet%3E/static/js/main.1d0797ba.js.map"
+    "main.css": "/my-wallet/static/css/main.1aac30c4.css",
+    "main.js": "/my-wallet/static/js/main.1d0797ba.js",
+    "static/media/Wallet.jpg": "/my-wallet/static/media/Wallet.b7c61e43c4c2db3f5873.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-wallet/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/my-wallet/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-wallet/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-wallet/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-wallet/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/my-wallet/index.html",
+    "main.1aac30c4.css.map": "/my-wallet/static/css/main.1aac30c4.css.map",
+    "main.1d0797ba.js.map": "/my-wallet/static/js/main.1d0797ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.19e811d4.css",
+    "static/css/main.1aac30c4.css",
     "static/js/main.1d0797ba.js"
   ]
 }
