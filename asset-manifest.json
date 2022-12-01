@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-wallet/static/css/main.1aac30c4.css",
-    "main.js": "/my-wallet/static/js/main.1d0797ba.js",
+    "main.js": "/my-wallet/static/js/main.3328883e.js",
     "static/media/Wallet.jpg": "/my-wallet/static/media/Wallet.b7c61e43c4c2db3f5873.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-wallet/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/my-wallet/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,10 +10,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-wallet/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/my-wallet/index.html",
     "main.1aac30c4.css.map": "/my-wallet/static/css/main.1aac30c4.css.map",
-    "main.1d0797ba.js.map": "/my-wallet/static/js/main.1d0797ba.js.map"
+    "main.3328883e.js.map": "/my-wallet/static/js/main.3328883e.js.map"
   },
   "entrypoints": [
     "static/css/main.1aac30c4.css",
-    "static/js/main.1d0797ba.js"
+    "static/js/main.3328883e.js"
   ]
 }
